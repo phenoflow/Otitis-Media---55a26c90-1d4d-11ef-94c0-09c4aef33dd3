@@ -1,0 +1,51 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/otitis-media-unspecified---primary.py
+inputModule3:
+  class: File
+  path: python/purulent-otitis-media---primary.py
+inputModule4:
+  class: File
+  path: python/otitis-media-secretory---primary.py
+inputModule5:
+  class: File
+  path: python/otitis-media---primary.py
+inputModule6:
+  class: File
+  path: python/bilateral-otitis-media---primary.py
+inputModule7:
+  class: File
+  path: python/otitis-media-eustachian---primary.py
+inputModule8:
+  class: File
+  path: python/nonsuppurative-otitis-media---primary.py
+inputModule9:
+  class: File
+  path: python/mucoid-otitis-media---primary.py
+inputModule10:
+  class: File
+  path: python/serous-otitis-media---primary.py
+inputModule11:
+  class: File
+  path: python/acute-otitis-media---primary.py
+inputModule12:
+  class: File
+  path: python/otitis-media-ear---primary.py
+inputModule13:
+  class: File
+  path: python/otitis-media-aerootitis---primary.py
+inputModule14:
+  class: File
+  path: python/otitis-media-effusion---primary.py
+inputModule15:
+  class: File
+  path: python/otitis-media-membrane---primary.py
+inputModule16:
+  class: File
+  path: python/tympanic-otitis-media---primary.py
+inputModule17:
+  class: File
+  path: python/output-cases.py
